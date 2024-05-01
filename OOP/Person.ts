@@ -2,8 +2,8 @@ import { IPerson } from "./interface/IPerson";
 
 class Person implements IPerson{
     //#region props
-    public name: string;
-    private age: number;
+    protected name: string;
+    protected age: number;
     gender: IPerson['gender'] = 'M';
     //#endregion
 
@@ -15,7 +15,7 @@ class Person implements IPerson{
 
     //#region interface implementation
     completeDetail(): void {
-        console.log('name is : ' + this.name.toString() + '' + 'age is : ' + this.age.toString())
+        console.log('name is : ' + this.name.toString() + '\t' + 'age is : ' + this.age.toString())
     }
 
     //#endregion
@@ -46,3 +46,5 @@ obj.setName('hello');
 
 console.log('name is : ' + obj.getName().toString())
 console.log('age is : ' + obj.getAge().toString())
+
+export default Person;

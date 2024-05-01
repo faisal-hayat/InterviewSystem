@@ -8,6 +8,6 @@
 - What is OOP in Angular?
 - What is constructor in angular?
 - What is encapsulation in OOP?
-- 
+- what is interface and why to use them?
 
 --- ---
