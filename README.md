@@ -14,3 +14,11 @@
 5. Class & Object
 
 --- ---
+
+## tsc command
+
+```commandline
+tsc hello.ts | node hello.js
+```
+
+--- ---
