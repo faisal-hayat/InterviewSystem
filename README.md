@@ -6,11 +6,11 @@
 
 ## OOP in Typescript
 
-- Encapsulation
-- Abstraction
-- Polymorphism
-- Inheritance
-- Class
-- Object
+- Following concepts are called OOP
+1. Encapsulation
+2. Abstraction
+3. Polymorphism
+4. Inheritance
+5. Class & Object
 
 --- ---
