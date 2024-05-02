@@ -10,6 +10,5 @@
 - How to use dependency injector with services in angular?
 - What is hierarchical dependency injection?
 - What is provider in  angular?
-- 
 
 --- ---
