@@ -45,6 +45,13 @@
 
 ## Decorators and PIPES
 
+- What is decorrator? 4 types of decorators: @NgModule, @NgComponent, @Injectable, @Directives, @Pipe
+- Property decotaor: @Input, @Output, @ContentChild, @ContentChildren, @ViewChild, @ViewChildren, @HostBinding
+- Method decorators
+- Parameter decorator
+- What are pipes, types and parameterized pipes?
+- What is chaining pipes?
+- what is difference b/w JIT(just in time, angular 8 and before) and AOT(ahead of time compilation: starting angular 9)?
 - 
 
 --- ---
