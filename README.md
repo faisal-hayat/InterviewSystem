@@ -22,3 +22,10 @@ tsc hello.ts | node hello.js
 ```
 
 --- ---
+
+## Questions which needs further elaboration?
+
+- Bootsrap module and bootstrap component?
+- 
+
+--- ---
