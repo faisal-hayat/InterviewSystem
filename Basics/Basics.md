@@ -37,6 +37,8 @@
 
 ## Directives
 
+- what are directive? what are type of directives?
+- what is the difference b/w structural, attribute and component based directives.
 - 
 
 --- ---
