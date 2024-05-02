@@ -26,13 +26,18 @@
 
 ## Data Binding
 
-- 
+- What is data binding in angular?
+  1. output data : from ts to html includes string interpolation, property bindings
+  2. input data : from html to ts includes event binding
+  3. two way binding b/w ts and html includes [(*ngModel)]
+- What is string interplolation in angular?
+- What is property binding?
 
 --- ---
 
 ## Directives
 
--
+- 
 
 --- ---
 
