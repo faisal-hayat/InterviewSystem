@@ -40,3 +40,25 @@
     1. generics are used to make classes and methods type safe or type independent. 
 
 --- ---
+
+## Exception Handling in C#
+
+- Can we execute multiple catch blocks (No)?
+- Can we have try block without catch (Yes, using finally)?
+- What is the difference b/w throw and throw ex (throw ex will change the stacktrace whereas thorw will not)?
+- What is the difference b/w array and array list?
+- what is the disfference b/w array list and hashtable (arary vs dictionary)?
+- What are collection in C# and what are their types?
+- What is IEnumerable in C#?
+
+--- ---
+
+## Methods and Delegates
+
+- What is the difference b/w out and red in C#?
+- What is params in C#?
+- what is constructor and its types in C#?
+- what is private constructor and when to use one?
+- Waht do you mean by delegate?
+
+--- ---
