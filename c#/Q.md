@@ -26,6 +26,17 @@
 - When to use interface, when to use abstract class?
 - Can interface have constructor (no)?
 - Can we create instance of abstract class or interface (no)?
-- 
+
+--- ---
+
+## OOP and Generics in C#
+
+- What are access modifiers, what is default access modifier of a class (public, private, internal, protected, protected internal)?
+- What is boxing (convert from value typt to string value) and un-boxing?
+- What is the difference b/w string and stringBuilder in C#?
+- What are basic string operations in C#?
+- What are nullable types in C#?
+- Explain generics in c#, when and why to use them in C#?
+    1. generics are used to make classes and methods type safe or type independent. 
 
 --- ---
